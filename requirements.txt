@@ -1,1 +1,0 @@
-This file is crucial for specifying the project's dependencies, such as Transformers and Langchain. Without it, setting up the environment and installing the necessary libraries becomes difficult
