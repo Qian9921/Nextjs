@@ -36,3 +36,11 @@ This repository contains a tutorial for learning Next.js, a React framework for 
 ## Deployment
 
 [Describe how to deploy a Next.js application to platforms like Vercel, Netlify, or AWS.]
+
+# Next.js Project
+
+A brief description of your project.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
