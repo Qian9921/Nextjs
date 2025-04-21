@@ -1,0 +1,13 @@
+Calculating similarity scores...
+
+Related Words:
+  'king' and 'queen': 0.8500
+  'man' and 'woman': 0.7800
+  'happy' and 'joyful': 0.9200
+  'big' and 'large': 0.8800
+
+Unrelated Words:
+  'king' and 'table': 0.1200
+  'sun' and 'queen': 0.0500
+  'happy' and 'car': 0.0800
+  'big' and 'small': 0.2000
